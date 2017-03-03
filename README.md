@@ -1,7 +1,7 @@
 # simpleCalculator_base_Qt5_7
 A simple calculator, based on Qt5.7.1
 
-Gpa calculation function (fun 2) can be ignored, because of its applicable objects are college students, and different schools calculation
+Gpa calculation function (fun 2) can be ignored, because its applicable objects are college students, and different schools calculation
 rules might be different. Therefore, the focus is on the first function.
 
 ##this is the first time i use github,so it is my first project.
