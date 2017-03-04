@@ -1,3 +1,4 @@
+![image](https://github.com/Song125930/simpleCalculator_base_Qt5_7/blob/master/screenshots/01.PNG)
 # simpleCalculator_base_Qt5_7
 A simple calculator, based on Qt5.7.1
 
